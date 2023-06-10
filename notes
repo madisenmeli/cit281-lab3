@@ -1,0 +1,11 @@
+The server code file, p3-server.js, will import the coinCount code module function, 
+and will contain the Node.js and Fastify web server code. 
+The server code will also need to use the Node.js file system fs module to read in the index.html file.
+
+>>: Update p3-server.js file to import the built-in fs package, and assign the package to a constant variable called fs.
+
+>>: Update p3-server.js file to import the third-party fastify package, and assign the package to a constant variable called fastify.
+
+>>: Import the coinCount function from the p3-module.js code module file.
+
+>>: Add and commit changes using git.
